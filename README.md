@@ -14,7 +14,7 @@ NBASearch is a java program that uses JOptionPane to return an NBA Player's info
 
 * Compile NBASearch.java
 * Usage: java NBASearch players.txt
-```
+
 
 ## Authors
 
